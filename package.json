@@ -1,6 +1,6 @@
 {
-  "name": "tensorflow-test",
-  "version": "1.0.0",
+  "name": "mlgc-backend",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
